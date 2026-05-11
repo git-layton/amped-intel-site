@@ -1,0 +1,28 @@
+# Amplified Intelligence
+
+> A Post-AI design and research lab building diagnostic tools for signal processing and edge intelligence.
+
+## What we do
+
+We build software for people who value truth over volume. In an era where language is cheap, we make tools that cut through the noise.
+
+Our specialty: local-first AI tools that run on your hardware, not our servers.
+
+## Products
+
+### SlopWash
+A native macOS utility that strips corporate jargon, AI slop, and vague language from any text.
+- Highlight text, press ⌘⇧W, get the blunt truth
+- Runs entirely on-device. No cloud, no telemetry
+- One-time license, $14.99
+- Available at: https://slopwash.me
+
+## Philosophy
+
+We believe intelligence is discernment, not just processing. The most valuable tool in the post-AI era is the one that knows when to say "no."
+
+## Key facts
+
+- Founded: 2024
+- Focus: Signal processing, anti-noise architecture, edge intelligence
+- Stack: Local-first, privacy-by-design, macOS-native
